@@ -1,2 +1,2 @@
 def new1():
-	return "this is my first git Part - 2"
+	return "hello"
